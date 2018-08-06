@@ -1,6 +1,6 @@
-name: mod-docs
-title: Modular Documentation Reference Guide
+name: asciidoc-markup
+title: AsciiDoc Mark-up Quick Reference for Red Hat Documentation
 version: 'latest'
-start_ROOT: ROOT:introduction.adoc
+start_ROOT: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
